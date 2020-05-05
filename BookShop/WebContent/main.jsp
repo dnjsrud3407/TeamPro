@@ -55,7 +55,7 @@
 		alert('검색어를 입력하세요');
 		return false;
 	} else {
-		return true;
+		return true; 
 	}
   }
   function getMiddle(type) {
