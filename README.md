@@ -22,7 +22,7 @@
 <br>
 
 ## Database ERD
-<img title="db_erd" src="https://user-images.githubusercontent.com/52884298/269186668-46981a0c-25bf-40ee-804c-acdeef65a8aa.png" width="600px">
+<img title="db_erd" src="https://user-images.githubusercontent.com/52884298/279357205-92877fe3-60fe-4000-baf7-b22990b749ae.png" width="800px">
 
 <br><br>
 <hr><br>
