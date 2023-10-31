@@ -54,6 +54,7 @@
    할인 쿠폰과 포인트를 사용할 수 있고 최종 결제금액을 확인할 수 있습니다.<br>
    결제는 아임포트 결제 API를 사용하였습니다.
 <br>
+
 ### 관리자 기능
 
 1. 관리자 메인<br>
@@ -83,24 +84,38 @@
 - 마이페이지, 결제 내역<br>
 <img title="myPage" src="https://user-images.githubusercontent.com/52884298/279366637-009df273-d74b-459f-9de1-ad4aa15d2fe3.PNG" width="600px">
 <img title="buyInfo" src="https://user-images.githubusercontent.com/52884298/279366884-77f60be9-1d81-4682-a718-00defd63a7b1.PNG" width="600px">
+
 <br>
 
-- 게시글 검색 및 목록<br>
+- 상품 목록(list/image 선택 가능), 상세보기<br>
+<img title="bookList" src="https://user-images.githubusercontent.com/52884298/279366692-e1434783-8362-4dca-bf39-f93a08a87c93.PNG" width="600px">
+<img title="bookImage" src="https://user-images.githubusercontent.com/52884298/279366713-ea66e8c9-4279-4d53-9285-0ab1c1434458.PNG" width="600px">
+<img title="bookDetail" src="https://user-images.githubusercontent.com/52884298/279366746-d07ed62f-4bcf-4423-af0c-b6fff705f2d3.PNG" width="600px">
 
-https://github.com/dnjsrud3407/foodstagram/assets/52884298/61e74790-c74b-4da2-9b42-36ca97202c7d
+<br>
 
-<br><br>
+- 장바구니, 결제<br>
+<img title="bag" src="https://user-images.githubusercontent.com/52884298/279366769-6d4f9a04-8f49-424c-ad6e-a1661732c4d2.PNG" width="600px">
+<img title="cash" src="https://user-images.githubusercontent.com/52884298/279366833-274af0e4-de2c-45c5-8225-868c7768f850.PNG" width="600px">
 
-- 게시글 상세보기<br>
+<br>
 
-https://github.com/dnjsrud3407/foodstagram/assets/52884298/07c34f3d-83d0-44df-9d97-610a9634db4e
+- 관리자 메인<br>
+<img title="admin_main" src="https://user-images.githubusercontent.com/52884298/279372666-69fb1813-19b9-4d5c-8c3c-5bb253fd13ab.PNG" width="900px">
 
-<br><br>
+<br>
 
-- 리스트 목록 및 등록하기
-<img title="list_detail_create" src="https://user-images.githubusercontent.com/52884298/268457514-409a7e11-4824-4ffb-8017-3da0012bd706.gif" width="1000px">
+- 상품 등록, 목록<br>
+<img title="admin_book_create" src="https://user-images.githubusercontent.com/52884298/279372702-3e740e40-7db5-442b-b9e8-37546a6dfb8e.PNG" width="600px">
+<img title="admin_book_List" src="https://user-images.githubusercontent.com/52884298/279372780-7d4d078c-366a-4ab9-9e45-8c37c9ad7a3a.PNG" width="800px">
+
+<br>
+
+- 상품 후기 등록, 목록
+<img title="admin_book_after" src="https://user-images.githubusercontent.com/52884298/279372834-8ae06c9c-8a3d-4517-a48c-b78d5afa5737.PNG" width="800px">
+<img title="admin_book_after_list" src="https://user-images.githubusercontent.com/52884298/279372855-3dc19934-0341-4826-b2e7-5aa793c6b5d6.PNG" width="800px">
 
 <br>
 
 ## 개선할 점
-- Redis 서버 분리하여 JWT, 이메일 인증번호 저장하기
+- Spring 으로 개발해보기
